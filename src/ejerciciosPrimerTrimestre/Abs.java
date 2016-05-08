@@ -17,7 +17,7 @@ public class Abs
 public static void main(String[] args)
  {
 	 //declaraciónDeVariablesYOtrosObjetos
-	 float numero,vabs=0;
+	 float numero,vabs;
 	 Scanner teclado= new Scanner (System.in);
 	 
 	 //leerDatos
